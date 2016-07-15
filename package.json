@@ -1,0 +1,24 @@
+{
+  "name": "css-less-sass",
+  "version": "1.0.0",
+  "description": "![Imgur](http://i.imgur.com/6C451Nv.jpg)\r ![Imgur](http://i.imgur.com/86uXwMq.jpg)\r ![Imgur](http://i.imgur.com/P11yV2o.png?1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/css-less-sass.git"
+  },
+  "keywords": [
+    "css",
+    "less",
+    "sass"
+  ],
+  "author": "T.D.Nuwan Chathuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/css-less-sass/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/css-less-sass#readme"
+}
