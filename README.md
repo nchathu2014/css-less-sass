@@ -15,4 +15,6 @@ Gaining the experience of css, less and saas
 - importing problem
 
 ### LESS
-- calling LESS to a project (**bower**,**npm**,**cdn**,directly **less.js** calling)
+- Calling LESS to a project (**bower**,**npm**,**cdn**,directly **less.js** calling)
+- Variables
+- Operators
