@@ -17,4 +17,6 @@ Gaining the experience of css, less and saas
 ### LESS
 - Calling LESS to a project (**bower**,**npm**,**cdn**,directly **less.js** calling)
 - Variables
-- Operators
+- Operations
+- Functions
+- Mixins
