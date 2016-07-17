@@ -20,3 +20,6 @@ Gaining the experience of css, less and saas
 - Operations
 - Functions
 - Mixins
+- Scoping
+- String Interpolation
+- Using Javascript
