@@ -1,0 +1,16 @@
+//NOTE : less variables behave like CONSTANTS @back-color:@back-color+1 like operations are not working
+@back-color:#d31145; //color
+@width:500px;  //units
+@height:1.7em; //units
+@baseFontSize:30px;
+@baseFont:"Comic Sans MS"; //fonts
+@borderStyle : 5px solid green;
+
+#testDiv{
+  height:@height;
+  width:@width;
+  background-color: @back-color;
+  font-size: @baseFontSize;
+  font-family: @baseFont;
+  border: @borderStyle;
+}

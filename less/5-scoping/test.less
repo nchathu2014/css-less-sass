@@ -1,0 +1,13 @@
+@import "variables";
+@import "mixins";
+
+#myDiv{
+  button{
+    font-size: @base-font;
+    .btn-color(@base-color);
+  }
+}
+
+button{
+  .btn-color(lighten(@base-color,20%))
+}
